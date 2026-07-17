@@ -63,10 +63,8 @@ The goal is simple.
 SQL Practice
 │
 ├── README.md
-├── SQL PRACTICE - LEVEL 1.sql
-├── SQL PRACTICE - LEVEL 1.pdf
-├── SQL PRACTICE - LEVEL 2.sql
-└── SQL PRACTICE - LEVEL 2.pdf
+├── SQL PRACTICE - practice 2.sql
+└── SQL PRACTICE - practice 2.pdf
 ```
 
 ---
