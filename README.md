@@ -109,8 +109,6 @@ SQL Practice
 
 ### Level 2
 
-### Level 2
-
 Advanced Subqueries
 
 Correlated Subqueries
@@ -176,7 +174,7 @@ The complete set of Level 2 practice questions and solutions is available in the
 
 # Latest Update
 
-🚀 **Level 2 has been added.**
+**Level 2 has been added.**
 
 This level introduces more practice questions that require more analytical thinking and strengthen SQL problem-solving skills.
 
@@ -188,10 +186,6 @@ This level introduces more practice questions that require more analytical think
 |-------|--------|
 | ✅ Level 1 | Completed |
 | ✅ Level 2 | Completed |
-| ⏳ Level 3 | Coming Soon |
-| ⏳ Advanced SQL Challenges | Planned |
-| ⏳ PostgreSQL Practice | Planned |
-| ⏳ Interview Questions | Planned |
 
 ---
 
