@@ -73,8 +73,8 @@ SQL Practice
 
 | File | Description |
 |------|-------------|
-| 📄 [SQL PRACTICE - LEVEL 2.pdf](./SQL%20PRACTICE%20-LEVEL%202.pdf) | Level 2 practice questions and solutions |
-| 💾 [SQL PRACTICE - LEVEL 2.sql](./SQL%20PRACTICE%20-LEVEL%202.sql) | Executable SQL script for Level 2 |
+| 📄 [SQL PRACTICE - LEVEL 2.pdf](./SQL%20PRACTICE%20-%20LEVEL%202.pdf) | Level 2 practice questions and solutions |
+| 💾 [SQL PRACTICE - LEVEL 2.sql](./SQL%20PRACTICE%20-%20LEVEL%202.sql) | Executable SQL script for Level 2 |
 
 ---
 
