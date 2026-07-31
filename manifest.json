@@ -4,11 +4,10 @@
 
   "project": {
     "title": "SQL Practice Journey",
+
     "description": "A structured SQL practice repository documenting progressive learning through real-world exercises, analytical SQL problems, and complete solutions from beginner to intermediate level.",
 
     "status": "production",
-
-    "repositoryType": "learning",
 
     "tags": [
       "SQL",
@@ -19,21 +18,16 @@
       "Learning"
     ],
 
-    "cover": "assets/showcase-cover.webp",
+    "cover": "assets/cover.webp",
 
     "demo": null,
 
     "caseStudy": null,
 
-    "technologies": [
-      "SQL",
-      "PostgreSQL"
-    ],
-
     "capabilities": {
-      "cover": true,
       "demo": false,
-      "caseStudy": false
+      "caseStudy": false,
+      "cover": true
     }
   },
 
@@ -44,9 +38,7 @@
       "featured": false,
       "priority": 50,
 
-      "customTitle": "SQL Practice Journey",
-
-      "category": "Learning Projects"
+      "customTitle": "SQL Practice Journey"
     }
   }
 }
