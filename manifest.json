@@ -1,11 +1,16 @@
 {
   "schemaVersion": 1,
-  "minimumReaderVersion": 1,
 
   "project": {
     "title": "SQL Practice Journey",
 
     "description": "A structured SQL practice repository documenting progressive learning through real-world exercises, analytical SQL problems, and complete solutions from beginner to intermediate level.",
+
+    "problem": "Learning SQL often relies heavily on passive tutorials, making it difficult to develop real problem-solving skills and maintain consistent practice.",
+
+    "solution": "This repository provides a structured collection of SQL practice exercises and complete solutions, helping learners strengthen analytical thinking and improve SQL proficiency through hands-on practice.",
+
+    "businessValue": "Creates a reusable SQL learning resource that demonstrates practical database skills, tracks learning progress, and supports interview preparation through real-world query practice.",
 
     "status": "production",
 
@@ -20,15 +25,27 @@
 
     "cover": "assets/cover.webp",
 
+    "gallery": [
+      {
+        "type": "image",
+        "title": "SQL Practice Cover",
+        "file": "assets/cover.webp"
+      },
+      {
+        "type": "pdf",
+        "title": "SQL Practice Questions & Solutions",
+        "file": "SQL-Practice-Level-2.pdf"
+      },
+      {
+        "type": "sql",
+        "title": "SQL Practice Script",
+        "file": "SQL-Practice-Level-2.sql"
+      }
+    ],
+
     "demo": null,
 
-    "caseStudy": null,
-
-    "capabilities": {
-      "demo": false,
-      "caseStudy": false,
-      "cover": true
-    }
+    "caseStudy": null
   },
 
   "publish": {
