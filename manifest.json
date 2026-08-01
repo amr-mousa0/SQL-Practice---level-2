@@ -54,7 +54,14 @@
       "visibility": "public",
       "featured": false,
       "priority": 50,
+      "customTitle": "SQL Practice Journey"
+    },
 
+    "mousa-analytics": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 50,
       "customTitle": "SQL Practice Journey"
     }
   }
