@@ -2,7 +2,7 @@
   "schemaVersion": 1,
 
   "project": {
-    "title": "SQL Practice Journey _ Level 2",
+    "title": "SQL Practice Journey _ Level 2.2",
 
     "description": "A structured SQL practice repository documenting progressive learning through real-world exercises, analytical SQL problems, and complete solutions from beginner to intermediate level.",
 
@@ -54,7 +54,7 @@
       "visibility": "public",
       "featured": false,
       "priority": 50,
-      "customTitle": "SQL Practice Journey - Level 2 "
+      "customTitle": "SQL Practice Journey - Level 2.2"
     },
 
     "mousa-analytics": {
@@ -62,7 +62,7 @@
       "visibility": "public",
       "featured": false,
       "priority": 50,
-      "customTitle": "SQL Practice Journey - Level 2 "
+      "customTitle": "SQL Practice Journey - Level 2.2"
     }
   }
 }
