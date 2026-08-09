@@ -54,7 +54,7 @@
       "visibility": "public",
       "featured": false,
       "priority": 50,
-      "customTitle": "SQL Practice Journey - Level 2.2"
+      "customTitle": "SQL Practice Journey - Level 2"
     },
 
     "mousa-analytics": {
@@ -62,7 +62,7 @@
       "visibility": "public",
       "featured": false,
       "priority": 50,
-      "customTitle": "SQL Practice Journey - Level 2.2"
+      "customTitle": "SQL Practice Journey - Level 2"
     }
   }
 }
